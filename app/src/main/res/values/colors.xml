@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="purple_500">#6200EE</color>
+    <color name="primary_color">#6200EE</color> <!-- Violet profond -->
+    <color name="primary_light">#BB86FC</color> <!-- Violet clair -->
+    <color name="primary_dark">#3700B3</color> <!-- Violet foncé -->
+
+    <!-- Background and Surface -->
+    <color name="background_color">#F5F5F5</color> <!-- Gris très clair -->
+
+
+    <!-- Text Colors -->
+    <color name="primary_text_color">#212121</color> <!-- Noir intense -->
+    <color name="secondary_text_color">#757575</color> <!-- Gris foncé -->
+
+    <!-- Accent Colors -->
+    <color name="accent_color">#03DAC5</color> <!-- Teal/Aqua -->
+    <color name="error_color">#B00020</color> <!-- Rouge pour les erreurs -->
+
+</resources>
